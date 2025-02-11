@@ -1,1 +1,1 @@
-Browser weather app built with Streamlit, using Airvisual API. 
+Browser weather app built with Streamlit, utililzing Airvisual API. 
